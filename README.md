@@ -1,8 +1,15 @@
-# ✨ Full Stack Realtime Chat App ✨
+# Fullstack Chat App 💬
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+A real-time chat application built with a modern fullstack stack, featuring user authentication, profile customization, and live messaging.
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+## 🚀 Features
+
+- 🔐 User authentication (login, register)
+- 👤 Profile page with image upload
+- 💬 Real-time messaging
+- 🟢 Online user status
+- ⚙️ Clean UI built with TailwindCSS
+- 📱 Fully responsive for mobile and desktop
 
 Highlights:
 
